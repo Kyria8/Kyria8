@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![vmontero's 42 stats](https://badge42.herokuapp.com/api/stats/vmontero?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
+|  ##  |			Name				| Result |
+|:----:|:----------------:|:------:|
+|  00  |libft							          | ![vmontero's libft Score](https://badge42.herokuapp.com/api/project/vmontero/Libft) |
+|  01  |netwhat     			          | ![vmontero's libft Score](https://badge42.herokuapp.com/api/project/vmontero/netwhat) |
+|  02  |get_next_line			          | ![vmontero's libft Score](https://badge42.herokuapp.com/api/project/vmontero/get_next_line) |
+|  03  |printf        		          | ![vmontero's libft Score](https://badge42.herokuapp.com/api/project/vmontero/ft_printf) |
+
+
+---
